@@ -48,7 +48,7 @@ Je kan een non-primitive datatype herkennen aan de hoofdletter aan het begin - *
 
 Soms zie je toch een _Boolean_ of _Integer_ gebruikt worden ipv _boolean_ of _int_. Dit zijn zogeheten **Wrapper Classes**! Deze classes voegen wat extra functionaliteit toe aan de variabelen via ingebouwde methods. 
 
-![img](images/image32.png)
+![img](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/02_core/images/image32.png)
 
 Moet je dan altijd een wrapper class gebruiken ipv een primitive? Nee, want Java’s compiler zet automatisch jouw primitives om naar de bijbehorende wrapper class  Dit proces wordt ook wel _autoboxing_ genoemd.
 
@@ -112,14 +112,14 @@ Type casting is het veranderen van de datatype van een variabele. Dit kan je doe
 
 Dit wordt ook wel **Downcasting** genoemd. Het is impliciet omdat je dit eigenlijk al hebt gezien - bij het hoofdstuk over Polymorphisme. Zie het voorbeeld hieronder:
 
-![img](images/image12.png)
+![img](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/02_core/images/image12.png)
 
 
 ### **Explicit/Narrowing Type Casting**
 
 Dit wordt ook wel **Upcasting** genoemd. Expliciet omdat je het echt zelf moet doen. Dit ziet er als volgt uit: 
 
-![img](images/image1.png)
+![img](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/02_core/images/image1.png)
 
 Downcasting kan je meestal zonder problemen doen, maar upcasten moet je mee oppassen. Niet alleen kan je hiermee onbedoeld afronden zoals in het voorbeeld hierboven, maar je kan ook makkelijk je applicatie mee crashen. Dit ga je in een later hoofdstuk meer onderzoeken.
 
@@ -133,7 +133,7 @@ Stel: je wil 2, 3 of 4 argumenten aan een method doorgeven om te printen. Je kan
 
 Dit is natuurlijk helemaal niet schaalbaar, en leidt tot ontzettend veel code voor iets vrij simpels. Dit kan ook anders met **_varargs_**. Varargs is een afkorting voor _variable arguments_. 
 
-![img](images/image17.png)
+![img](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/02_core/images/image17.png)
 
 Toch zal je varargs in het echt niet veel tegenkomen. Ze komen met een hele eigen set aan problemen, terwijl er voor dit soort situaties ook andere oplossingen bestaan - “_int[] nums_” of “_ArrayList&lt;Integer> nums_” bijvoorbeeld.
 
@@ -175,13 +175,13 @@ Java geeft je tools om hiermee om te gaan: **_Errors & Exceptions_**. Dit zijn O
 
 Dit is een <span style="text-decoration:underline;">versimpeld</span> diagram van de hiërarchie:
 
-![img](images/image24.png)
+![img](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/02_core/images/image24.png)
 
 Zoals in het diagram te zien is, is _Throwable_ class de root class in de hiërarchie. Die vertakt zich vervolgens in twee subclasses: **Error** en **Exception**. 
 
 In Java (en veel andere programmeertalen) worden errors & exceptions gethrowt en gecatcht. Door iets zelf te _throwen_ wordt de keyword **_throw_** gebruikt. Terwijl bij een method die een bepaald soort throwt de keyword **_throws_** wordt gebruikt. Zie het voorbeeld hieronder:
 
-![img](images/image16.png)
+![img](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/02_core/images/image16.png)
 
 Je kan een method dus errors laten throwen - dan wordt het een probleem voor de code die de method oproept. Je kan je method dit ook zelf laten oplossen - dat leer je verderop bij **_Exception Handling_**. Voordat je weet hoe je iets kan oplossen is het namelijk wel handig om te weten welk probleem je aan het oplossen bent 😉
 
@@ -237,7 +237,7 @@ Zo’n try/catch block heeft Java in 3 soorten:
 
 BIj deze benadering is het zo dat na iedere **_try_** block een **_catch_** block volgt. _catch_ wordt altijd samen gebruikt met _try_. Je kan ook meerdere catch blocks gebruiken, elke voor aparte errors. De syntax ziet er als volgt uit:
 
-![img](images/image13.png)
+![img](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/02_core/images/image13.png)
 
 
 Let goed op de details in dit voorbeeld - er zitten een paar goede methods om te onthouden tussen. Als je goed oplet kan je er ook zien dat het throwen van exceptions (en errors) ervoor zorgt dat je code onderbroken wordt. Maak dit na en controleer het zelf.
@@ -249,7 +249,7 @@ Een **_finally_** block is een alternatief voor een catch block. Deze wordt alti
 
 Een vrij compleet voorbeeld: 
 
-![img](images/image29.png)
+![img](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/02_core/images/image29.png)
 
 Dit soort code is een ook een voorbeeld voor de _use case_ van een finally block: resources zoals een Scanner goed sluiten, of een laatste taak uitvoeren na je exception handling.
 
@@ -272,7 +272,7 @@ Je hebt in de voorbeelden gezien dat een try block meerdere catch blocks kan heb
 2. Kan een enkele exception verschillende catch blocks laten uitvoeren?
 3. Maak onderstaande code na en leg uit wat er mis aan is:
 
-![img](images/image6.png)
+![img](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/02_core/images/image6.png)
 
 **Opdracht 2** - Exceptional Custom Practice
 
@@ -312,7 +312,7 @@ Daarom wordt er ook wel gesproken over het Collections framework - een verzameli
 
 Hieronder zie je een bijna complete weergave van het Collections Framework:
 
-![img](images/image7.jpg)
+![img](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/02_core/images/image7.jpg)
 
 Waarom zijn er zo veel verschillende classes en variaties van collecties? Omdat ze allemaal een net iets andere _use case_ hebben.
 
@@ -347,21 +347,21 @@ De standaard gebruikte implementatie is de **LinkedList**. Dit is dus zowel een 
 
 Waar een queue standaard FIFO is, is een _stack_ het omgekeerde - **Last In, First Out**. Je kan het zien als een stapel borden:
 
-![img](images/image21.png)
+![img](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/02_core/images/image21.png)
 
 
 ### **Set**
 
 Een **_Set_** is een verzameling unieke waardes - je kan dus niet iets toevoegen aan een Set als het er al in zit. Als je dit wel probeert krijg je geen error, maar je code zal alsnog niets veranderen. De standaard gebruikte implementatie van een Set is de **_HashSet_**:
 
-![img](images/image25.png)
+![img](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/02_core/images/image25.png)
 
 
 ### **Map**
 
 Een **_Map_** is een verzameling van “Key-Value pairs”. Dit is vergelijkbaar aan een normaal Object met fields, maar dan efficiënter. **Let op** - de Map interface is geen subinterface van Collection! De standaard gebruikte implementatie van een Map is de **_HashMap_**:
 
-![img](images/image26.png)
+![img](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/02_core/images/image26.png)
 
 
 
@@ -376,26 +376,26 @@ Een aparte method voor elk datatype is natuurlijk heel slecht schaalbaar. Maar a
 
 Om dit probleem op te lossen heeft Java **_Generics & Wildcards_** geïntroduceerd. Dit zijn een soort “catch-all” datatypes. De simpelste van dit soort types is de **_wildcard type_**:
 
-![img](images/image15.png)
+![img](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/02_core/images/image15.png)
 
 Maar wat als je het type ergens in de method wil gebruiken? Bijvoorbeeld een item uit een lijst returnen:
 
-![img](images/image19.png)
+![img](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/02_core/images/image19.png)
 
 Let goed op de &lt;T> in de _method signature_ - dat is niet de return type! Dat zie je in het onderstaande voorbeeld:
 
-![img](images/image30.png)
+![img](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/02_core/images/image30.png)
 
 
 ### **Bounded Generics**
 
 Je kan zelfs specificeren dat je Generic Type bepaalde voorwaarden heeft. Zoiets heet dan een **_Bounded Generic_**:
 
-![img](images/image20.png)
+![img](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/02_core/images/image20.png)
 
 Verder uitgewerkt:
 
-![img](images/image3.png)
+![img](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/02_core/images/image3.png)
 
 
 
@@ -487,12 +487,12 @@ Het gebruiken van dit soort interfaces doe je soms maar 1x in je programma - dan
 
 Gelukkig kan het veel makkelijker. Weinig gebruikt maar wel benoemenswaardig is de Anonymous Inner Class oplossing:
 
-![img](images/image10.png)
+![img](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/02_core/images/image10.png)
 
 
 Hiermee implementeer je de Predicate interface en maak je tegelijkertijd een instantie ervan aan. Maar dit kan nog simpeler met een nog betere oplossing; de **Lambda Expression**:
 
-![img](images/image5.png)
+![img](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/02_core/images/image5.png)
 
 
 
@@ -508,7 +508,7 @@ Ze lijken hierin sterk op Arrow Functions uit JavaScript, mocht je die kennen. E
 
 Nog een voorbeeld van een Lambda Expression, dit keer bij een **_for-each method_**:
 
-![img](images/image9.png)
+![img](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/02_core/images/image9.png)
 
 De syntax is misschien verwarrend, maar het is wel heel efficiënt geschreven.
 
@@ -516,7 +516,7 @@ De reden dat de _System.out.println(num)_ hierboven gehighlight is, is omdat de 
 
 Als je lambda alleen de argumenten direct doorgeeft aan een bestaande method, kan je die dus ook anders schrijven. Dat ziet er zo uit:
 
-![img](images/image31.png)
+![img](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/02_core/images/image31.png)
 
 
 
@@ -530,7 +530,7 @@ Waarmee kan je de Stream API dan gebruiken? Meestal zal je het gebruiken bij een
 
 Bij het toepassen van stream wordt er gebruikgemaakt van een pipeline/keten van methods/operations. De operations die er bestaan binnen stream zijn **Non-terminal/Intermediate operations** en **Terminal operations**.
 
-![img](images/image4.png)
+![img](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/02_core/images/image4.png)
 
 **Intermediate Operations** zijn dus methods die zelf ook weer een Stream returnen, terwijl Terminal Operations alleen aan het einde uitgevoerd kunnen worden. 
 
@@ -538,7 +538,7 @@ Een **Terminal Operation** hoeft niet eens een return value te hebben - de forea
 
 Vaak zijn Streams geschreven met een eigen regel voor elke operatie. Bijvoorbeeld:
 
-![img](images/image11.png)
+![img](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/02_core/images/image11.png)
 
 Maar het bovenstaande kan je toch ook met een for loop bereiken? Waar is de Stream API dan goed voor?
 
@@ -559,7 +559,7 @@ Een goede resource om te gaan gebruiken op je huidige kennisniveau is Baeldung -
 
 Een Functional Interface kan je gebruiken door in je code de method aan te roepen. In het onderstaande voorbeeld zie je die van de **_Predicate_** interface - **_test()_**
 
-![img](images/image5.png)
+![img](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/02_core/images/image5.png)
 
 Wat zijn de namen van de methods van de **_Function_**, **_Consumer_** en **_Supplier_** interfaces?
 
@@ -596,19 +596,19 @@ Enums en Annotations zijn beiden een speciale soort “class” die je in Java k
 
 Een enum is een speciale “class” bestaande uit een groep van _constants_. Constants zijn variabelen die niet veranderen, zoals _final_ variabelen. Dit kan je goed gebruiken voor dagen in de week, of maten van T-shirts. Bijvoorbeeld:
 
-![img](images/image28.png)
+![img](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/02_core/images/image28.png)
 
 Om een enum te creëren gebruik je de **_enum_** keyword in plaats van **_class_**. De constants worden binnen de curly brackets gescheiden door komma's. **Let op** - het is standaard dat de constants <span style="text-decoration:underline;">altijd</span> met hoofdletters worden geschreven.
 
 Je kan een Enum ook waardes geven. Bijvoorbeeld:
 
-![img](images/image14.png)
+![img](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/02_core/images/image14.png)
 
 Is het gelijk duidelijk dat height en waist centimeter-waardes zijn? Het is belangrijk om altijd na te denken over ideale/betere naamgeving!
 
 Je kan deze waardes op de volgende manier gebruiken:
 
-![img](images/image18.png)
+![img](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/02_core/images/image18.png)
 
 **Let op** - je maakt dus nooit gebruik van een **_new_** keyword hiervoor. Elke enum van een bepaalde soort heeft altijd dezelfde waarde, dus er is ook geen nut aan meerdere instanties.
 
@@ -641,7 +641,7 @@ Dit is ook een _marker annotation_. Je weet inmiddels dat een Functional Interfa
 
 Deze annotation is **geen** marker annotation - het _kan_ namelijk **wel** data bevatten. In dit geval gaat het om een String en een boolean - je ziet ze beiden in het voorbeeld hieronder:
 
-![img](images/image22.png)
+![img](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/02_core/images/image22.png)
 
 **Let op** - sommige Annotations hebben waarden die je verplicht in moet vullen. Bij _@Deprecated_ hoeft dat niet - since en forRemoval zijn optioneel.
 
@@ -652,7 +652,7 @@ Annotations kunnen ook een “value” property hebben. Als er geen andere verpl
 
 Zie hieronder twee compiler warnings die je met deze Annotation voorkomt:
 
-![img](images/image2.png)
+![img](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/02_core/images/image2.png)
 
 Probeer dit zelf na te maken en de annotations te veranderen / verwijderen. Kijk vervolgens of je compiler warnings in je IDE kan zien. 
 
@@ -666,7 +666,7 @@ Daarom gaan wij er ook kort doorheen, zodat jij in ieder geval weet hoe Annotati
 
 We benoemen wel nog even kort de lastige kant van je eigen Annotations maken; de andere Annotations die je daar weer op moet zetten.
 
-![img](images/image8.jpg)
+![img](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/02_core/images/image8.jpg)
 
 
 ### **_@Target_**
@@ -693,7 +693,7 @@ Hier kan je nog een goede video met uitleg over Annotations vinden.
 2. Creëer in de enum een boolean _isWorkday_. Zorg ervoor dat al je dagen een bijpassende true/false waarden krijgen.
 3. Gebruik je enum om het volgende in je terminal te printen:
 
-![img](images/image27.png)
+![img](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/02_core/images/image27.png)
 
 **Opdracht 2** - What makes a good enumeration?
 
@@ -714,7 +714,7 @@ Maak de classes na, en verbeter ze daarna door enums te gebruiken.
 
 Hieronder nog een voorbeeld van een custom annotation:
 
-![img](images/image23.png)
+![img](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/02_core/images/image23.png)
 
 De waarden van @Target en @Retention zijn beiden enums. Wat houden de verschillende waarden van RetentionPolicy in?
 
