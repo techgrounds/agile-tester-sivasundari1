@@ -12,11 +12,11 @@ De eerste stap in het leren van een nieuwe taal leren is het überhaupt aan de p
 
 Maak een nieuw project aan in je IDE en gebruik de onderstaande code. Je hoeft je nu nog niet druk te maken om wat de tekst in dit voorbeeld allemaal betekent:
 
-![image](images/image24.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image24.png)
 
 Als je op een van de 2 “play buttons” drukt, hoort je terminal het volgende te tonen:
 
-![image](images/image12.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image12.png)
 
 Gefeliciteerd! Je hebt net een Java applicatie gerund. Vanaf nu volgt dan het echte werk  ;) 
 
@@ -107,13 +107,13 @@ Stel dat we een applicatie bouwen waarbij een gebruiker wordt gekoppeld aan een 
 
 Dit zijn drie voorbeelden van variabelen met de namen ‘_name_’, ‘_education_’ en ‘_age_’. In deze variabelen zitten respectievelijk de waarden (values) _Jan Java_, _20_ en _false_.
 
-![image](images/image18.png)
+![image]([images/](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image18.png)
 
 In Java geven we specifiek aan wat voor soort informatie er wordt opgeslagen in een variabele. Deze verwijzing wordt een data type genoemd. Java kent **Primitive data types** en **Non-primitive data types** (hier later meer over). De data types die in het voorbeeld hierboven worden gebruikt zijn **_String_**, **_int_** en **_boolean_**.
 
 Wanneer we een data type toekennen aan een variabele of enkel aangeven dat een bepaalde variabele bestaat, wordt dit een **variabele declaratie** genoemd. Bij een variabele declaratie worden het datatype en de naam gespecificeerd (zonder dat hier nog een waarde aan wordt toegekend):
 
-![image](images/image25.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image25.png)
 
 
 
@@ -123,11 +123,11 @@ Bij het aanmaken van variabelen is het heel belangrijk dat je goed let op de naa
 
 Slechte naamgeving:
 
-![image](images/image29.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image29.png)
 
 Betere naamgeving:
 
-![image](images/image11.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image11.png)
 
 
 
@@ -188,7 +188,7 @@ Tenslotte heb je ook de **logical operators**: && en ||. Daarmee kan je meerdere
 
 Hierboven heb je geleerd over de **+** operator. Diezelfde operator kan ook gebruikt worden om _Strings_ met elkaar te verbinden. Dit heet **String concatenation**. Oefen hier zelf ook mee! 
 
-![image](images/image27.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image27.png)
 
 
 
@@ -218,7 +218,7 @@ De dierenbescherming grijpt gelukkig in en zegt: “Voor zo’n huis is 4 katten
 
 Neem de volgende code over:
 
-![image](images/image9.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image9.png)
 
 
 **Opdracht 6** - Vervang het bovenstaande teken ‘&lt;’ door alle vijf van de andere relational en equality operators, en print alle zes de resultaten in je console.
@@ -261,7 +261,7 @@ Een String is een object. Wanneer je objecten met elkaar wil vergelijken, is het
 
 Het volgende voorbeeld laat zien, hoe we .equals() kunnen toepassen op het object String:
 
-![image](images/image14.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image14.png)
 
 
 
@@ -302,7 +302,7 @@ Een ander woord voor **scope** is bereik. Een scope bepaalt de begrenzing van ee
 
 Scope wordt aangegeven met curly braces: **{  }**. Zie het voorbeeld hieronder:
 
-![image](images/image17.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image17.png)
 
 Java maakt onderscheid tussen 3 soorten scope voor variables:
 
@@ -325,7 +325,7 @@ Methods hebben naast een scope vaak ook een **return value**. Dit kan je zien al
 
 Net als variables kunnen methods gebruik maken van een aantal modifiers. Daarnaast **moet** elke non-Constructor method een return type aangeven. Zie het voorbeeld hieronder:
 
-![image](images/image28.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image28.png)
 
 Als een method geen return type heeft, is deze waarde _void_.
 
@@ -335,11 +335,11 @@ Als een method geen return type heeft, is deze waarde _void_.
 
 Een method kan ook waardes accepteren waar een bepaalde taak op wordt uitgevoerd. Zo’n waarde heet een **parameter**.
 
-![image](images/image19.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image19.png)
 
 Een parameter kun je zien als een placeholder voor de actuele waarde die je doorgeeft aan een method. Deze actuele waarde wordt dan een **argument **genoemd.
 
-![image](images/image31.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image31.png)
 
 In het voorbeeld hierboven is de ‘someSeats’ het argument dat gebruikt wordt door de _reserveSeats()_ method.
 
@@ -355,9 +355,9 @@ Om een object te creëren (ook wel **class instantiëren** genoemd), heb je een 
 
 De code die je in een constructor zet, wordt uitgevoerd als er een nieuw object wordt aangemaakt. Zie het voorbeeld hieronder:
 
-![image](images/image4.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image4.png)
 
-![image](images/image21.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image21.png)
 
 “Hello Person!” is natuurlijk een beetje onpersoonlijk. Als je hallo zegt tegen iemand (in dit geval Ben) wil je natuurlijk graag de naam erbij gebruiken. Met bovenstaande code lukt dit niet. Wil je zo’n effect in je code hebben, dan bereik je dat met het keyword **this!**
 
@@ -367,7 +367,7 @@ De code die je in een constructor zet, wordt uitgevoerd als er een nieuw object 
 
 De **this** keyword wordt gebruikt in een method of een constructor en verwijst naar het huidige object. Het volgende voorbeeld laat zien wanneer er verwezen wordt naar de local variabele en wanneer naar de instance variabele:
 
-![image](images/image16.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image16.png)
 
 
 
@@ -379,7 +379,7 @@ De **this** keyword wordt gebruikt in een method of een constructor en verwijst 
 
 Als het goed is, krijg je het volgende te zien als resultaat (in je eigen IDE heb je waarschijnlijk een andere code die volgt na _@_):
 
-![image](images/image6.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image6.png)
 
 Het eerste gedeelte "Car" verwijst naar de class, en het gedeelte "@65ab7765" verwijst naar de locatie van het object in je computergeheugen. Dit wordt ook wel het **memory address** genoemd.
 
@@ -421,11 +421,11 @@ Een array is een lijst met een **vooraf bepaalde hoeveelheid** waarden, allemaal
 
 Om toegang te krijgen tot een bepaald element in een array, gebruik je hiervoor **index**. De index is een getal dat aangeeft op welke plek in het array een bepaald item staat. Iedere index correspondeert met een element in een array en begint altijd op **0**.
 
-![image](images/image8.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image8.png)
 
 Dit is een voorbeeld van hoe je Arrays kan initialiseren (zie regel 3):
 
-![image](images/image22.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image22.png)
 
 Om toegang te krijgen tot een bepaald element in een array gebruik je de brackets [ ] zoals dat te zien is op regel 4 in het voorbeeld. 
 
@@ -435,7 +435,7 @@ Om toegang te krijgen tot een bepaald element in een array gebruik je de bracket
 
 Met Java kan je ook gebruik maken van arrays in arrays. Java noemt deze multi-dimensional Arrays. Dit ziet er als volgt uit:
 
-![image](images/image2.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image2.png)
 
 
 
@@ -512,7 +512,7 @@ Of anders gezegd:
 
 Je kan zoveel _else if()_ gebruiken als je wil, en ook het gebruik van een laatste onvoorwaardelijke else optie is niet verplicht. Bijvoorbeeld:
 
-![image](images/image33.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image33.png)
 
 
 
@@ -522,7 +522,7 @@ Je kan je misschien voorstellen dat een if/else if/else if etc. al snel erg uit 
 
 Een voorbeeld van een switch/case kan je hieronder zien:
 
-![image](images/image15.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image15.png)
 
 Naast de “case” bestaat er dus ook een “default” optie. Deze kan je vergelijken met de “else” in een if/else blok. Toch zijn deze niet helemaal hetzelfde!
 
@@ -530,7 +530,7 @@ Als je het bovenstaande voorbeeld namaakt, zal je namelijk iets aparts opvallen 
 
 Als je dit niet wil hebben, moet je gebruikmaken van het **break** keyword. Zie hieronder:
 
-![image](images/image13.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image13.png)
 
 
 
@@ -552,13 +552,13 @@ We behandelen ze een voor een.
 
 Een **while loop** voert taken voor een onbepaalde tijd uit, zolang de conditie als “true” wordt gelezen. Als je deze conditie nooit verandert kan je programma dus vastraken in een zogeheten _infinite loop_! Zie hieronder:
 
-![image](images/image10.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image10.png)
 
 Als je een loop wil stoppen, kan je dit op twee  manieren doen; je kan zorgen dat je conditie uiteindelijk vanzelf false wordt, of je kan zelf het keyword break gebruiken, net als bij conditions!
 
 Tenslotte is er ook nog de **do…while** loop. Deze voert ongeacht de conditie het code block een keer uit, en kijkt daarna of hij het herhaalt aan de hand van de conditie. Zie een voorbeeld met een break hieronder:
 
-![image](images/image30.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image30.png)
 
 
 
@@ -566,7 +566,7 @@ Tenslotte is er ook nog de **do…while** loop. Deze voert ongeacht de conditie 
 
 Een **for loop** is goed om te gebruiken als je van tevoren weet hoe vaak je de code wil draaien. Voor een for loop heb je 3 statements nodig. Kijk naar onderstaande voorbeeld en probeer eerst zelf te begrijpen wat er gebeurt:
 
-![image](images/image7.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image7.png)
 
 Om een for loop te maken heb je dus 3 statements nodig. In dit voorbeeld zijn die statements als volgt:
 
@@ -586,7 +586,7 @@ De derde statement wordt _**na** elke iteratie_ van de loop uitgevoerd - i++ is 
 
 Een **for-each loop** gaat door elk item in o.a. Arrays & ArrayLists heen en doet iets met elk individueel item. Daarvoor heeft het natuurlijk ook een naam nodig om naar die aparte items te verwijzen. Zie hieronder:
 
-![image](images/image34.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image34.png)
 
 Hierbij is cats dus het array waar de for-each loop doorheen gaat. De individuele items/katten heten in elke iteratie van de loop ‘_couch\_destroyer_’.
 
@@ -629,7 +629,7 @@ Een foutje bij conditionals zit in een klein hoekje - daarom is het heel belangr
 
 Bij het voorbeeld hieronder staan een aantal ingewikkelde _expressions_. Lees onderstaande code goed door en **schrijf eerst je verwachtingen op** voordat je verder gaat:
 
-![image](images/image23.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image23.png)
 
 1. Wat komt er uit bij elke van deze drie variabelen?
 2. Voldoet dit voor elke aan je verwachtingen?
@@ -670,7 +670,7 @@ Je kan loops ook gebruiken om sorteer-methodes toe te passen. Er zijn natuurlijk
 
 2. Begin met het Array {2, 7, 5, 10, 4, 9, 3, 1, 8, 6} en sorteer deze met bubblesort. Print daarna je array in de terminal om dit te controleren. Zie het visuele voorbeeld hieronder:
 
-![image](images/image26.gif)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image26.gif)
 
 
 
@@ -778,7 +778,7 @@ _Polymorphism_ betekent dat een Object of method meerdere dingen tegelijkertijd 
 
 Ook bij methods heb je polymorphism - **_method overloading_** heb je eerder al gebruikt om meerdere constructors aan te maken. Dit kan je ook buiten constructors toepassen - zie het voorbeeld hieronder:
 
-![image](images/image3.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image3.png)
 
 Weer een ander voorbeeld van polymorphism is **_method overriding_**. Dit houdt in dat je een method van een superclass anders gebruikt in de subclass.
 
@@ -821,7 +821,7 @@ Beren slapen anders dan het gemiddelde bosdier - namelijk gemiddeld vier uur in 
 
 Hiervoor heb je geleerd hoe je een Bear kan aanmaken met type ForestAnimal. Nu gaan we het nog lastiger maken. Begin met het overnemen van onderstaande voorbeeld:
 
-![image](images/image1.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image1.png)
 
 1. Maak een String type = “critter” bij je ForestAnimal.
 2. Maak een method printType() op je Bear class die zowel de eigen type als de super type print.
@@ -860,15 +860,15 @@ Soms wil je dat je class zich aan meerdere verschillende contracten kan houden. 
 
 Om dit op te lossen maakt Java gebruik van **_Interfaces_**. Net zoals je het gebruik van een superclass aangeeft met het keyword _extends_, geef je het gebruik van een interface aan met het keyword _implements_. Dit ziet er zo uit:
 
-![image](images/image36.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image36.png)
 
 Elke class die nu Carnivore implementeert houdt zich aan de regels - ze **moeten** een eigen versie van Carnivore implementeren.  Dat kan er bijvoorbeeld zo uitzien:
 
-![image](images/image32.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image32.png)
 
 Een class geeft aan dat het een interface gebruikt met het keyword **implements:**
 
-![image](images/image20.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image20.png)
 
 
 Interfaces zitten overal en worden ook heel erg veel gebruikt als type. Een van de bekendste is de List Interface. Alle classes die zichzelf “List” mogen noemen kunnen bijvoorbeeld de methods _add()_, _get()_, _remove()_ en _size()_ gebruiken.
