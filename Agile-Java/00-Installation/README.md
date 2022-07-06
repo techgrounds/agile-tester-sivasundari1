@@ -14,7 +14,7 @@ Zelfs de Marsrover _Spirit_ gebruikte software die met Java gebouwd is. Het feit
 
 Je bent de termen Server-Side en Client-Side misschien al eerder tegengekomen. Hier is nog een voorbeeld om het iets duidelijker te maken:
 
-![alt_text](images/image3.jpg "image_tooltip")
+![alt_text](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/00_installation/images/image3.jpg "image_tooltip")
 
 Belangrijk om op te merken is dat de database losstaat van de server. De database draaiend houden is dus niet een verantwoordelijkheid van de server. 
 
@@ -30,7 +30,7 @@ De manier waarop Java dit regelt is door gebruik te maken van de **_Java Virtual
 
 Dit is een voorbeeld van hoe een compiler werkt:
 
-![alt_text](images/image2.png "image_tooltip")
+![alt_text](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/00_installation/images/image2.png "image_tooltip")
 
 Voordat je een programma met Java kan gebruiken, moet je computer Java dus hebben geïnstalleerd. Tenzij je een kersverse computer uitpakt, zal dit vaak al het geval zijn. 
 
