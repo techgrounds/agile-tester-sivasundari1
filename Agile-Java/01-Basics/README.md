@@ -447,7 +447,7 @@ Voordat je een ArrayList kan gebruiken, moet je dat eerst in je eigen code aange
 
 Voorbeeld van een ArrayList:
 
-![image](images/image35.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image35.png)
 
 Je importeert de code van een ArrayList dus uit de _java.util_ package.
 
