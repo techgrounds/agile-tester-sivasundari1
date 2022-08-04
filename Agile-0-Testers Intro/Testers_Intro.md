@@ -1,7 +1,7 @@
 # Introductie Testen
 
 
-# Wat is een QA Tester ( Software Tester )
+# Wat is een Agile Tester ( Software Tester )
 
 Een software tester is een ICT-specialist, die verantwoordelijk is voor verschillende werkzaamheden die met software te maken hebben. De belangrijkste taak van een software tester is het controleren van software op mogelijke fouten en/of andere tekortkomingen. Een software tester gaat vaak te werk via een zogenaamd testplan. De software tester krijgt dan een deel van de te testen software om uit te proberen. 
 
