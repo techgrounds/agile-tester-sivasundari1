@@ -5,7 +5,7 @@
 
 Hoe zie ik? Agile
 
-Wat is agile testen? En wat is agile? Laat ik vooropstellen dat ik geen onderscheid maak tussen agile en agile. Voor mij is het allemaal hetzelfde. Agile is een mindset, een manier van kijken naar de wereld. Voor mij is het geen proces of methode. Het is meer een container dan een manier van werken. Dit stuk bespreekt agile vs Agile en ik vind het goed. Het beschrijft agile als een mindset en Agile met een hoofdletter A als iets commercieels: "Het probleem hier is dat al deze zinnige suggesties geformaliseerd werden in "Agile", met een hoofdletter A. Dit geheel van suggesties voor "dingen die lijken te werken" werd in een pakket gestopt met een strik eromheen, om verkocht te worden aan bedrijven en managers."
+Wat is agile testen? En wat is agile? Laat ik vooropstellen dat ik geen onderscheid maak tussen agile en Agile. Voor mij is het allemaal hetzelfde. Agile is een mindset, een manier van kijken naar de wereld. Voor mij is het geen proces of methode. Het is meer een container dan een manier van werken. Dit stuk bespreekt agile vs Agile en ik vind het goed. Het beschrijft agile als een mindset en Agile met een hoofdletter A als iets commercieels: "Het probleem hier is dat al deze zinnige suggesties geformaliseerd werden in "Agile", met een hoofdletter A. Dit geheel van suggesties voor "dingen die lijken te werken" werd in een pakket gestopt met een strik eromheen, om verkocht te worden aan bedrijven en managers."
 
 ## Agile Testing?
 
