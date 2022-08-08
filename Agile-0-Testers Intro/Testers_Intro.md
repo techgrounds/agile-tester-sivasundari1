@@ -4,9 +4,9 @@ Stel je voor je organisatie werkt al twee jaar hard aan haar product. De release
 
 Dan, de grote dag komt eindelijk... en het is verschrikkelijk. Natuurlijk, de applicatie ziet er geweldig uit, en de functies zijn fantastisch. Maar de app zit vol met gênante bugs. Gebruikers zijn niet tevreden en de recensies zijn onverbiddelijk.
 
-Hoe kan dit worden voorkomen? Het antwoord is, natuurlijk, het testen van software.
+Hoe kan dit worden voorkomen? Het antwoord is natuurlijk het testen van software.
 
-Vergissen is menselijk. Hoe perfectionistisch je ook bent, we maken allemaal wel eens fouten. Elke organisatie heeft een einddoel dat gepaard gaat met een eigen set verwachtingen.
+Vergissen is menselijk hoe perfectionistisch je ook bent, we maken allemaal wel eens fouten. Elke organisatie heeft een einddoel dat gepaard gaat met een eigen set verwachtingen.
 
 Voor sommige bedrijven wordt succes aangegeven door een hoge frequentie van echte resultaten die overeenkomen met de verwachte resultaten. Maar voordat het einddoel wordt bereikt, moet elke onderneming de gevolgen van menselijke fouten onder ogen zien.
 
