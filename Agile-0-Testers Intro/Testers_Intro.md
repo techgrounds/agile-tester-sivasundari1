@@ -1,6 +1,6 @@
 # Wat is software testen? Alle basisprincipes die je moet weten
 
-Stel je dit eens voor. Je organisatie werkt al twee jaar hard aan haar product. De release van de eerste versie nadert snel, en iedereen is opgewonden. Er staat veel op het spel, dus de mensen zijn nerveus, maar ze zijn ook overtuigd van de kwaliteit van hun werk.
+Stel je voor je organisatie werkt al twee jaar hard aan haar product. De release van de eerste versie nadert snel, en iedereen is opgewonden. Er staat veel op het spel, dus de mensen zijn nerveus, maar ze zijn ook overtuigd van de kwaliteit van hun werk.
 
 Dan, de grote dag komt eindelijk... en het is verschrikkelijk. Natuurlijk, de applicatie ziet er geweldig uit, en de functies zijn fantastisch. Maar de app zit vol met gênante bugs. Gebruikers zijn niet tevreden en de recensies zijn onverbiddelijk.
 
