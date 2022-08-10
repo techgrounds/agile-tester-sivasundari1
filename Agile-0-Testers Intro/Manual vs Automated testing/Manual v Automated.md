@@ -1,6 +1,6 @@
 # Automation testing versus Manual testing: Het kiezen van de juiste balans
 
-Het testen van software is een integraal onderdeel van de ontwikkeling van een succesvol softwareproject. Het testen van software zelf is een enorm domein waarin vele varianten bestaan. Om u een idee te geven, enkele voorbeelden van testmethodologieën zijn regressietesten, rooktesten, netwerktesten, integratietesten, en nog veel meer. 
+Het testen van software is een integraal onderdeel van de ontwikkeling van een succesvol softwareproject. Het testen van software zelf is een enorm domein waarin vele varianten bestaan. Om u een idee te geven, enkele voorbeelden van testmethodologieën zijn Regression testen, Smoke testen, Network testen, Integration testen, en nog veel meer. 
 
 Naast de overvloed aan testvormen, is er ook een zeer actieve discussie gaande over de vraag of Automated testen beter is dan Manual testen. Deze post zal u leiden door de voordelen van elke aanpak en zal proberen te concluderen wat de beste optie is voor elke use case. Laten we beginnen met het verkennen van het verschil tussen Manual en Automated testen
 
