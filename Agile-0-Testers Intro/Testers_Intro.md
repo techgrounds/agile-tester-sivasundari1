@@ -1,24 +1,24 @@
 # Wat is software testen? Alle basisprincipes die je moet weten
 
-Stel je voor je organisatie werkt al twee jaar hard aan haar product. De release van de eerste versie nadert snel, en iedereen is opgewonden. Er staat veel op het spel, dus de mensen zijn nerveus, maar ze zijn ook overtuigd van de kwaliteit van hun werk.
+Stel je voor je organisatie werkt al twee jaar hard aan haar product de release van de eerste versie nadert snel, en iedereen is opgewonden. Er staat veel op het spel dus de mensen zijn nerveus maar ze zijn ook overtuigd van de kwaliteit van hun werk.
 
-Dan, de grote dag komt eindelijk... en het is verschrikkelijk. Natuurlijk, de applicatie ziet er geweldig uit, en de functies zijn fantastisch. Maar de app zit vol met gênante bugs. Gebruikers zijn niet tevreden en de recensies zijn onverbiddelijk.
+Dan de grote dag komt eindelijk... en het is verschrikkelijk. Natuurlijk de applicatie ziet er geweldig uit en de functies zijn fantastisch. Maar de app zit vol met gênante bugs gebruikers zijn niet tevreden en de recensies zijn onverbiddelijk.
 
 Hoe kan dit worden voorkomen? Het antwoord is natuurlijk het testen van software.
 
 Vergissen is menselijk hoe perfectionistisch je ook bent, we maken allemaal wel eens fouten. Elke organisatie heeft een einddoel dat gepaard gaat met een eigen set verwachtingen.
 
-Voor sommige bedrijven wordt succes aangegeven door een hoge frequentie van echte resultaten die overeenkomen met de verwachte resultaten. Maar voordat het einddoel wordt bereikt, moet elke onderneming de gevolgen van menselijke fouten onder ogen zien.
+Voor sommige bedrijven wordt succes aangegeven door een hoge frequentie van echte resultaten die overeenkomen met de verwachte resultaten. Maar voordat het einddoel wordt bereikt moet elke onderneming de gevolgen van menselijke fouten onder ogen zien.
 
-Geen enkele onderneming kan een manuele fout als excuus gebruiken om een gecompromitteerd product af te leveren. Om een product van hoge kwaliteit te garanderen, moet er iets zijn om fouten eruit te pikken. Software testen is een essentiële oplossing voor dit probleem voor software ontwikkelingsbedrijven.
+Geen enkele onderneming kan een manuele fout als excuus gebruiken om een gecompromitteerd product af te leveren. Om een product van hoge kwaliteit te garanderen moet er iets zijn om fouten eruit te pikken. Software testen is een essentiële oplossing voor dit probleem voor software ontwikkelingsbedrijven.
 
-In dit bericht zal ik een aantal basisprincipes van het testen van software behandelen die je moet weten. Hier zijn enkele van de onderwerpen waarover je zult lezen: 
+In deze tekst zal ik een aantal basisprincipes van het testen van software behandelen die je moet weten. Hier zijn enkele van de onderwerpen waarover je zult lezen: 
 
 * De definitie van software testen
 * Het belang van software testen
 * De soorten van software testen
 * Hoe werkt het software testproces?
-* Hoe kunt u beslissen welke soorten software tests u moet gebruiken?
+* Hoe kun je beslissen welke soorten software tests je moet gebruiken?
 
 Laten we beginnen.
 
@@ -34,7 +34,7 @@ Professionele software testers gebruiken een combinatie van manueel testen met g
 
 Het is gebruikelijk voor veel startups om testen over te slaan. Ze zouden kunnen zeggen dat hun budget de reden is waarom ze zo'n belangrijke stap over het hoofd zien. Ze denken dat het geen grote gevolgen zal hebben. Maar om een sterke en positieve eerste indruk te maken, moet het top-notch zijn. En daarvoor is het testen van het product op bugs een must.
 
-Om echt te begrijpen waarom het testen van software belangrijk is, moeten we het correleren met voorbeelden uit de echte wereld, die in het verleden voor ernstige problemen heeft gezorgd, een paar voorbeelden zijn onder andere;
+Om echt te begrijpen waarom het testen van software belangrijk is, moeten we het correleren met voorbeelden uit de echte wereld die in het verleden voor ernstige problemen heeft gezorgd een paar voorbeelden zijn onder andere:
 
 * In oktober 2014, Flipkart een e-commerce in India bedrijf had een aanbod genaamd de "Big Billion Sale." Toen het werd gelanceerd, had het veel verkeer en als gevolg daarvan kon zijn website de enorme belasting van het verkeer niet aan, wat leidde tot de website downtime, annulering van bestellingen, enz. De reputatie van de organisatie werd ernstig geschaad door dit probleem.
 * In 2015 kon de Royal Bank of Scotland, als gevolg van een bug, ongeveer 600.000 betalingen niet verwerken. Hierdoor kregen ze een boete van 66 miljoen pond
@@ -50,25 +50,25 @@ Organisaties moeten zich concentreren op het testen van applicaties en de bugs o
 
 ## Verbetering van de veiligheid
 
-Wanneer klanten het product gebruiken, zullen ze zeker persoonlijke informatie prijsgeven. Om te voorkomen dat hackers deze gegevens in handen krijgen, is het testen van de beveiliging een must voordat de software wordt vrijgegeven. Wanneer een organisatie een goed testproces volgt, zorgt het voor een veilig product dat op zijn beurt klanten een veilig gevoel geeft tijdens het gebruik van het product.
+Wanneer klanten het product gebruiken zullen ze zeker persoonlijke informatie prijsgeven. Om te voorkomen dat hackers deze gegevens in handen krijgen is het testen van de beveiliging een must voordat de software wordt vrijgegeven. Wanneer een organisatie een goed testproces volgt zorgt het voor een veilig product dat op zijn beurt klanten een veilig gevoel geeft tijdens het gebruik van het product.
 
-Voor bankapplicaties of e-commerce winkels is bijvoorbeeld betalingsinformatie nodig. Als de ontwikkelaars bugs in de beveiliging niet verhelpen, kan dat tot enorme financiële verliezen leiden.
+Voor bankapplicaties of e-commerce winkels is bijvoorbeeld betalingsinformatie nodig. Als de ontwikkelaars bugs in de beveiliging niet verhelpen kan dat tot enorme financiële verliezen leiden.
 
-Het andere deel van beveiliging is het niet verliezen van uw gegevens. Het is tegenwoordig gebruikelijk dat mensen gegevens opslaan in cloud-opslag. U hebt waarschijnlijk ook uw foto's en bestanden opgeslagen op iCloud of Google Drive.
+Het andere deel van beveiliging is het niet verliezen van je gegevens. Het is tegenwoordig gebruikelijk dat mensen gegevens opslaan in cloud-opslag. Je hebt waarschijnlijk ook je foto's en bestanden opgeslagen op iCloud of Google Drive.
 
-Wat als er iets misgaat en u al uw gegevens verliest? Een van uw nachtmerries, is het niet? Beveiliging van een product beschermt niet alleen informatie tegen hackers, maar zorgt er ook voor dat het niet verloren gaat of beschadigd raakt.
+Wat als er iets misgaat en je al je gegevens verliest? Een van je nachtmerries, is het niet? Beveiliging van een product beschermt niet alleen informatie tegen hackers, maar zorgt er ook voor dat het niet verloren gaat of beschadigd raakt.
 
 ## Detecteer compatibiliteit met verschillende apparaten en platforms
 
 De dagen zijn voorbij dat klanten uitsluitend op forse desktops werkten. In het tijdperk van mobile-first is het testen van de apparaatcompatibiliteit van een product een must.
 
-Laten we bijvoorbeeld zeggen dat uw organisatie een website heeft ontwikkeld. De tester moet controleren of de website werkt op verschillende apparaatresoluties. Daarnaast moet hij ook werken op verschillende browsers.
+Laten we bijvoorbeeld zeggen dat een organisatie een website heeft ontwikkeld. De tester moet controleren of de website werkt op verschillende apparaatresoluties. Daarnaast moet hij ook werken op verschillende browsers.
 
-Een andere reden waarom testen steeds belangrijker wordt, zijn de steeds groter wordende browseropties. Wat goed werkt in Chrome, werkt misschien niet goed in Safari of Internet Explorer. Hierdoor ontstaat de behoefte aan cross-browser testen, waarbij de compatibiliteit van de applicatie op verschillende browsers wordt gecontroleerd.
+Een andere reden waarom testen steeds belangrijker wordt, zijn de steeds groter wordende browseropties. Wat goed werkt in Chrome, werkt misschien niet goed in Safari of Internet Explorer. Hierdoor ontstaat de behoefte aan cross-browser testen waarbij de compatibiliteit van de applicatie op verschillende browsers wordt gecontroleerd.
 
 ## Classificaties van software testen
 
-Het testen van software is geen eenduidig iets. In plaats daarvan zijn er veel verschillende varianten, die je kunt categoriseren aan de hand van verschillende criteria.
+Het testen van software is geen eenduidig iets in plaats daarvan zijn er veel verschillende varianten, die je kunt categoriseren aan de hand van verschillende criteria.
 
 Zo kun je testtypes indelen in handmatig of geautomatiseerd testen. Als het gaat om de geautomatiseerde variant, kunnen tests gebaseerd zijn op code of zonder code - en je kunt ook hybride benaderingen hebben die het beste van beide werelden mixen.
 
@@ -193,8 +193,6 @@ Zoals je hebt gezien, is het testen van software er in vele soorten en maten. El
 Als je bedenkt dat je team en organisatie beperkte middelen hebben, hoe kun je dan kiezen tussen de vele beschikbare soorten testen op een manier die de testdekking maximaliseert, zodat je software van hoge kwaliteit kunt leveren terwijl je je middelen op de meest efficiënte manier gebruikt?
 
 Dat is waar het concept bekend als de testautomatisering piramide van pas komt.
-
-We hebben een hele post over dit concept, maar hier is de beknopte versie: de testautomatiseringspiramide - kortweg de testpiramide - is een concept dat u helpt na te denken over de verschillende soorten softwaretesten en de keuze tussen die verschillende soorten.
 
 Aan de onderkant van de piramide heb je unit tests. Unit tests zijn eenvoudiger en goedkoper te schrijven dan de meeste andere vormen van testen. Omdat ze niet praten met externe afhankelijkheden, draaien ze snel en zijn ze zeer precies in de feedback die ze geven. Het is dus zinvol om er veel van te hebben.
 
