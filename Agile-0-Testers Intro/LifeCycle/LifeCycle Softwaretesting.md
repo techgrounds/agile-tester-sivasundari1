@@ -3,7 +3,7 @@
 
 De levenscyclus voor het testen van software is de opeenvolging van activiteiten die tijdens het testen van software plaatsvinden. Door een gezonde levenscyclus voor het testen van software te hanteren, beschikt een organisatie over een kwaliteitsstrategie die waarschijnlijk betere resultaten zal opleveren. Maar waarom is dit zo belangrijk? Het komt allemaal neer op klanttevredenheid. Het presenteren van een perfect product aan de klant is het einddoel van elke organisatie.
 
-Niets schrikt klanten meer af dan een gebruikerservaring vol bugs, dus toen bedrijven zich dit realiseerden egonnen ze testen op te nemen als een verplicht onderdeel van de SDLC (System Development Life Cycle). Sindsdien is testen een integraal onderdeel geworden van elke organisatie.
+Niets schrikt klanten meer af dan een gebruikerservaring vol bugs dus toen bedrijven zich dit realiseerden egonnen ze testen op te nemen als een verplicht onderdeel van de SDLC (System Development Life Cycle). Sindsdien is testen een integraal onderdeel geworden van elke organisatie.
 
 Met agile is de levenscyclus van het testen van een applicatie procesgerichter en veelzijdiger geworden. Gewoonlijk ligt de volledige focus van een onderneming op de SDLC alleen. En ze beschouwen testen als een onderdeel van dat proces maar het is hoog tijd dat bedrijven zich realiseren dat het testen van software een eigen levenscyclus heeft.
 
