@@ -208,6 +208,6 @@ Het loont om dit soort tests in je testsuite te hebben, maar het is verstandig o
 
 # Testen is de levensader van software
 
-Geen enkel bedrijf kan het belang onderschatten van het leveren van het best mogelijke product aan klanten. En de soorten testen blijven evolueren en de lijst gaat maar door. Afhankelijk van de aard en de omvang van uw producten, kunt u verschillende testprocedures uitvoeren.
+Geen enkel bedrijf kan het belang onderschatten van het leveren van het best mogelijke product aan klanten. En de soorten testen blijven evolueren en de lijst gaat maar door. Afhankelijk van de aard en de omvang van het product, kun je verschillende testprocedures uitvoeren.
 
-Zodra het testteam het groene signaal geeft, is het product klaar om op de markt te worden gebracht. Maar bedrijven moeten nog steeds in gedachten houden dat het vertrouwen van de klant niet gemakkelijk komt. Om het vertrouwen van de klant te winnen, moet u consistente, betrouwbare producten leveren. Daarom is testen een integraal onderdeel van de levenscyclus van softwareontwikkeling.
+Zodra het testteam het groene signaal geeft is het product klaar om op de markt te worden gebracht. Maar bedrijven moeten nog steeds in gedachten houden dat het vertrouwen van de klant niet gemakkelijk komt. Om het vertrouwen van de klant te winnen moet je consistente, betrouwbare producten leveren. Daarom is testen een integraal onderdeel van de levenscyclus van softwareontwikkeling.
