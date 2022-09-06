@@ -1,6 +1,6 @@
 # Black Box en White Box testing
 
-IMG
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image24.png)
 
 Er zijn veel verschillende soorten software test technieken, ieder met zijn eigen sterke en zwakke punten. Elke techniek is te gebruiken om bepaalde types of defecten te vinden. In deze handout gaan we black box testing en white box testing bespreken, wat de verschillen hiertussen zijn en wanneer je welke techniek gebruikt.
 
@@ -125,7 +125,7 @@ In dit voorbeeld zijn we begonnen met het identificeren van de invoervoorwaarden
 
 State transition testing (toestandsovergang testen) worden gebruikt waarbij een bepaald aspect van het systeem kan worden beschreven in wat een 'eindige-toestandsmachine' wordt genoemd. Dit betekent simpelweg dat het systeem zich in een beperkt (eindig) aantal verschillende toestanden kan bevinden, en de overgangen van de ene toestand naar de andere worden bepaald door de regels van de 'machine'. Dit is het model waarop het systeem en de tests zijn gebaseerd. Elk systeem waarbij je een andere output krijgt voor dezelfde input, afhankelijk van wat er eerder is gebeurd, in een eindige toestand systeem. Een eindige toestand systeem wordt vaak weergegeven als een toestandsdiagram.
 
-IMG 
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/white-blackbox%20testing/a6.png)
 
 Een state transition model bestaat uit vier basisonderdelen:
 De staten die de software kan innemen (open/gesloten of gefinancierde/onvoldoende middelen)
@@ -148,6 +148,7 @@ Bij het afleiden van testgevallen kunnen we uitgaan van een typisch scenario. Ee
 |   S7) Eat card	|   S1 (for new card)	|   -	|   -	|
 
 Deze tabel bevat de statussen in de eerste kolom en de mogelijke gebeurtenissen in de bovenste rij. Als het systeem zich bijvoorbeeld in staat 1 bevindt, gaat het invoeren van een kaart naar staat 2. Als we ons in staat 2 bevinden en een geldige pincode wordt ingevoerd, gaan we naar staat 6 om toegang te krijgen tot de rekening. Als we in staat 2 een ongeldige pincode invoeren, gaan we naar staat 3. We hebben een streepje in de cellen gezet die onmogelijk zouden moeten zijn, dat wil zeggen, ze vertegenwoordigen ongeldige overgangen vanuit die staat. We hebben een vraagteken geplaatst voor twee cellen, waar we een geldige of ongeldige pincode invoeren wanneer we toegang krijgen tot het account. Misschien zal het systeem onze pincode gebruiken als geldbedrag om op te nemen? Misschien een goede test! De meeste andere ongeldige cellen zouden in dit voorbeeld fysiek onmogelijk zijn. Ongeldige (negatieve) tests zullen proberen ongeldige overgangen te genereren, overgangen die niet mogelijk zouden moeten zijn (maar maken vaak goede tests wanneer blijkt dat ze mogelijk zijn).
+
 
 
 
