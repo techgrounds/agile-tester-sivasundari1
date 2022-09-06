@@ -1,6 +1,6 @@
 # Black Box en White Box testing
 
-![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/Java/01_basics/images/image24.png)
+![image](https://github.com/Mitch1996/QA-Image-Store/blob/main/white-blackbox%20testing/a1.png)
 
 Er zijn veel verschillende soorten software test technieken, ieder met zijn eigen sterke en zwakke punten. Elke techniek is te gebruiken om bepaalde types of defecten te vinden. In deze handout gaan we black box testing en white box testing bespreken, wat de verschillen hiertussen zijn en wanneer je welke techniek gebruikt.
 
